@@ -1,6 +1,6 @@
 {
   "name": "squashing",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "This project is used to practice git squashing.",
   "main": "index.js",
   "scripts": {
