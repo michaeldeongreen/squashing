@@ -1,7 +1,7 @@
 {
   "name": "squashing",
   "version": "7.0.0",
-  "description": "",
+  "description": "This project is used to practice git squashing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
